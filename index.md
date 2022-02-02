@@ -42,4 +42,5 @@ Communication Adaptability Multitasking Skills
 ## LANGUAGES
 
 English - B1
-Russian -Native speaker
+
+Russian - Native speaker
