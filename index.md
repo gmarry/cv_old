@@ -31,13 +31,18 @@ Able to work well both in teams and on own initiative. Resilient and confident, 
 ## EDUCATION
 
 High degree, Saratov State University
+
 Applied Mathematician and Computer science (Sep 2003 — 2009, Russia, Saratov)
 
 ## SKiLLS
 
-Ability to Multitask Time Management Microsoft Office
-Ability to Work in a Team
-Communication Adaptability Multitasking Skills
+* Ability to Multitask 
+* Time Management
+* Microsoft Office
+* Ability to Work in a Team
+* Communication
+* Adaptability
+* Multitasking Skills
 
 ## LANGUAGES
 
