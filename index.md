@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Mary Garifullina
+[+353894899180](tel:+353894899180), [garifullina.m@gmail.com](mailto:garifullina.m@gmail.com)
 
-You can use the [editor on GitHub](https://github.com/gmarry/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## PROFILE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Able to work well both in teams and on own initiative. Resilient and confident, and works well under pressure. SeekingaroletoCustomerAssistant. Enthusiasticandreliable,dedicatedtoprovidingexcellentcustomerservice with a smile. Excellent time management skills.
 
-### Markdown
+## EMPLOYMENT HISTORY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Copywriter, SMM, Freelance Saratov (May 2016 — Dec 2020, Russia, Saratov, Remote)
 
-```markdown
-Syntax highlighted code block
+* Brought forth a passion for writing and sharing with others.
+* Conducted research and monitored blog traffic patterns to assess the kind of content readers desired.
+* Worked closely with advertisers and vendors.
 
-# Header 1
-## Header 2
-### Header 3
+### Leading economic expert, Econom Bank (Dec 2012 — May 2016, Russia, Saratov)
 
-- Bulleted
-- List
+* Functioned with expert level proficiency in daily operations, and addressed any challenges with optimism and drive.
+* Acted as a subject matter expert for other team members.
+* Reviewed and processed loan and credit applications.
+* Evaluated the loan and credit needs of clients, taking into consideration all aspects of their financial
+ background in relation to policies and regulations.
+ 
 
-1. Numbered
-2. List
+### Cashier, Econom bank (Dec 2012 — May 2016, Russia, Saratov)
 
-**Bold** and _Italic_ and `Code` text
+* Recorded and processed all orders in an organized and accurate manner.
+* Worked to ensure a positive and hassle-free customer experience.
+* Carefully and accurately monitored and recorded all refrigerated items ready for stocking.
 
-[Link](url) and ![Image](src)
-```
+## EDUCATION
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+High degree, Saratov State University
+Applied Mathematician and Computer science (Sep 2003 — 2009, Russia, Saratov)
 
-### Jekyll Themes
+## SKiLLS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmarry/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ability to Multitask Time Management Microsoft Office
+Ability to Work in a Team
+Communication Adaptability Multitasking Skills
 
-### Support or Contact
+## LANGUAGES
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+English - B1
+Russian -Native speaker
