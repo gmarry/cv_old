@@ -3,7 +3,7 @@
 
 ## PROFILE
 
-Able to work well both in teams and on own initiative. Resilient and confident, and works well under pressure. SeekingaroletoCustomerAssistant. Enthusiasticandreliable,dedicatedtoprovidingexcellentcustomerservice with a smile. Excellent time management skills.
+Able to work well both in teams and on own initiative. Resilient and confident, and works well under pressure. Enthusiastic and reliable, dedicated to providing excellent solutions on time. Excellent time management skills.
 
 ## EMPLOYMENT HISTORY
 
